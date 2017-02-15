@@ -1,0 +1,16 @@
+.clear-fix {
+  overflow: auto;
+  zoom: 1;
+}
+.box {
+  width: 33%;
+  box-sizing: border-box;
+  float: left;
+  height: 300px;
+  background-color:red;
+  border: 1px solid black;
+}
+
+.hidden {
+  visibility: hidden;
+}
